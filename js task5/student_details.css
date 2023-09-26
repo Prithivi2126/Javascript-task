@@ -1,0 +1,35 @@
+body{
+    overflow-x: hidden;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    width: 100%;
+    background-image:repeating-linear-gradient(to right, #9b51e0 , #cf2e2e); ;
+
+}
+.input-group{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 15px;
+}
+.input-group input{
+    font-size: 20px;
+    margin-top: 5px;
+    padding: 3px;
+}
+.form{
+    width: 500px !important;
+    padding: 30px;
+    background-color: rgb(0, 0, 0,0.5);
+    box-shadow: 0 0 30px #d616d6;
+}
+.button-submit{
+    background-image: repeating-linear-gradient(to right, #9b51e0 , #cf2e2e);
+}
+.button-cancel{
+    background-image: repeating-linear-gradient(to right, #9b51e0 , #cf2e2e);
+}
+
+select{
+    height: 40px;
+}
+

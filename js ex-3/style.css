@@ -1,0 +1,26 @@
+body{
+    background-image: repeating-linear-gradient(to right, #9b51e0 , #cf2e2e);
+    overflow-x: hidden;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    width: 100%;
+
+}
+.form{
+    width: 400px !important;
+    padding: 30px;
+    background-color: rgb(0, 0, 0, 0.5);
+}
+
+.btn{
+    justify-content: center !important;
+    margin-top: 8px;
+}
+ul#listdata{
+  list-style-type: none !important;
+    color: white;
+}
+.add{
+    margin-left: 150px;
+
+}
